@@ -1,5 +1,6 @@
-<div align="center">
+<div align="center">  
   
+## Activity  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jordanpapaditsas&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordanpapaditsas&theme=blueberry)
