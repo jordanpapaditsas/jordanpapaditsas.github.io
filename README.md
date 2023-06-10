@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Software Engineering in Athens University of Economics and Business.
 - 🔭 I'm focusing on Web Development and interested in Frontend Technologies. 
 - 📫 You can reach me with Linkedin, which can be found in my GitHub profile.  
-- ⚡ Annual Planning: Learning new skills, improving them and applying them.  
+- ⚡ Annual Planning: Make progress, be consistent. 
 
 
 <div align="center">  
