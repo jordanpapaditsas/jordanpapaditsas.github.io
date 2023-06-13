@@ -8,7 +8,7 @@
 
 <div align="center">  
   
-# Activity  
+## Activity  
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jordanpapaditsas&theme=tokyonight)](https://git.io/streak-stats)
   
