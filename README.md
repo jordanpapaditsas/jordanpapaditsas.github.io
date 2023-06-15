@@ -7,13 +7,26 @@
 - ⚡ I'm open for collaborations, to expand further my skillset and gain new experiences.   
 
 
-<div align="center">  
+<div align="left">  
   
-## Activity  
+
+## Languages & Tools 
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,mongodb,react,bootstrap,git" />
+</a>
+
+</div>
+
+<div align="center">  
+
+## Activity
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jordanpapaditsas&theme=tokyonight)](https://git.io/streak-stats)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jordanpapaditsas&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jordanpapaditsas&theme=blueberry)
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jordanpapaditsas&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jordanpapaditsas&theme=blueberry)  
+
 </div>
+  
+
 
