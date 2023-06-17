@@ -1,4 +1,4 @@
-## Hello there 👋  I'm Jordan 
+## Hello, 👋  I'm Jordan 
   
 - 🔭 I’m currently studying Software Engineering on Coding Factory, in Athens University of Economics and Business.
 - 🔭 I'm focusing on Web Development and interested in Frontend Technologies. 
