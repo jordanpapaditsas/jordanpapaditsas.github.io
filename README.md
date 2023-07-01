@@ -4,7 +4,7 @@
 - 🔭 I'm focusing on Web Development and interested in Frontend Technologies
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/iordanispapaditsas/)
 - ⚡ Annual Planning: Make progress, be consistent and happy coding
-- ⚡ I'm open for collaborations, to expand further my skillset and gain new experiences 
+- ⚡ I'm open for collaborations
 
 
 <div align="left">  
