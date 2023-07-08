@@ -1,7 +1,7 @@
 ## Hello, 👋  I'm Jordan 
   
 - 🔭 I’m currently studying Software Engineering at Coding Factory, which is run by the Athens University of Economics and Business
-- 🔭 I'm focusing on Web Development and interested in Frontend Technologies
+- 🔭 I'm focusing on Web Development and interested in Front-End Technologies
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/iordanispapaditsas/)
 - ⚡ Annual Planning: Make progress, be consistent and happy coding
 
