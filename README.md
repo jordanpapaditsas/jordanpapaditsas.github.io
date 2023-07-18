@@ -4,7 +4,7 @@
 - 🔭 I'm focusing on Web Development and interested in Front-End Technologies
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/iordanispapaditsas/)
 - ⚡ Annual Planning: Make progress, be consistent and happy coding
-- ⚡ Fun fact: I have an evil Beagle <a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>
+- ⚡ Fun fact: I have an evil Beagle 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥  
 
 
 <div align="left">  
