@@ -5,7 +5,8 @@
 for Full Stack Engineering.
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/iordanispapaditsas/)
 - ⚡ Annual Planning: Make progress, be consistent and happy coding
-- ⚡ Fun fact: I have an evil Beagle 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥  
+- ⚡ Fun fact: I have an evil Beagle 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥
+- ⚡ Hobbies: Experimenting in fusing foreign cuisines during my cooking, travelling, skydiving   
 
 
 <div align="left">  
