@@ -1,4 +1,4 @@
-## Hello, 👋  I'm Jordan 
+## 💫 Hello, 👋  I'm Jordan 
   
 - 🔭 I am currently studying Software Engineering at Coding Factory, which is affiliated with the Athens University of Economics and Business.
 - 🌱 I have a strong foundation in Web Development, and I am constantly studying and practicing new Technologies. 
@@ -11,7 +11,7 @@
 <div align="left">  
   
 
-## Languages & Tools 
+## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,mongo,mysql,git,visualstudio,vscode,idea,linux" />
@@ -21,7 +21,7 @@
 
 <div align="center">  
 
-## Activity
+## 📊 Activity
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jordanpapaditsas&theme=tokyonight)](https://git.io/streak-stats)
   
