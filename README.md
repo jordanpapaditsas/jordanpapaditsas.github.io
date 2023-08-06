@@ -5,7 +5,7 @@
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, become a Full Stack Engineer, and happy coding.
 - ⚡ Fun fact: I have an evil Beagle. 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥
-- ⚡ Hobbies: Experimenting in fusing foreign cuisines during my cooking, travelling, skydiving.   
+- ⚡ Hobbies: Experimenting in fusing foreign cuisines during my cooking, travelling, and skydiving.   
 
 
 <div align="left">  
