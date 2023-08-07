@@ -14,7 +14,7 @@
 ## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,mongo,mysql,git,visualstudio,vscode,idea,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,bootstrap,mongo,mysql,git,visualstudio,vscode,idea,linux" />
 </a>
 
 </div>
