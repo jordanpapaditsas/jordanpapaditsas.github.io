@@ -1,6 +1,6 @@
 ## 💫 Hello, 👋  I'm Jordan 
   
-- 📚 Currently studying Software Engineering in Coding Factory, which is affiliated with the Athens University of Economics and Business.
+- 📚 Currently studying Software Engineering in Coding Factory, which is run by the Athens University of Economics and Business.
 - 🌱 I have a strong foundation in Web Development, and I am constantly studying and practicing new Technologies. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, become a Full Stack Engineer, and happy coding.
