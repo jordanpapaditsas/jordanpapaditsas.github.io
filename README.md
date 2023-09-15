@@ -1,12 +1,10 @@
-## 💫 Hello, 👋  I'm Jordan 
+## Hello, 👋  I'm Jordan 
   
 - 📚 Currently studying Software Engineering in Coding Factory, which is run by the Athens University of Economics and Business.
 - 🌱 I have a strong foundation in Web Development, and I am constantly studying, improving and learning new Technologies. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, become a Full Stack Developer, and happy coding.
-- &#128062; Fun fact: I have an evil Beagle. 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥
-- &#127759; Hobbies: Fusing different cuisines during my cooking, travelling, and skydiving.   
-
+- &#128062; Fun fact: I have an evil Beagle. 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥   
 
 <div align="left">  
   
