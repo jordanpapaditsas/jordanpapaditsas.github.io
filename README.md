@@ -1,14 +1,12 @@
 ## Hello, 👋  I'm Jordan 
   
 - 📚 Currently studying Software Engineering in Coding Factory, which is run by the Athens University of Economics and Business.
-- 🌱 I have a strong foundation in Web Development, and I am constantly studying, improving and learning new Technologies. 
+- 🌱 I have a strong foundation in Web Development, interested to learn Full Stack Development in depth, and excited for new challenges. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
-- ⚡ Annual Planning: Make progress, be consistent, everyday a bit better from yesterday, and happy coding.
-- &#128062; Fun fact: I have an evil Beagle. 🔥<a href="https://imgur.com/MCw5bTS"><img src="https://i.imgur.com/MCw5bTS.png" title="source: imgur.com" /></a>🔥   
+- ⚡ Annual Planning: Make progress, be consistent, everyday to be a bit better from yesterday, and happy coding. 
 
 <div align="left">  
   
-
 ## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
