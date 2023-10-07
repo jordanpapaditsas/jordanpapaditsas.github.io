@@ -3,7 +3,7 @@
 - 📚 Currently studying Software Engineering in Coding Factory, which is run by the Athens University of Economics and Business.
 - 🌱 Strong foundation in Web Development, interested to learn Full Stack Development in depth, and excited for new challenges. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
-- ⚡ Annual Planning: Make progress, be consistent, everyday to be a bit better from yesterday, and happy coding. 
+- ⚡ Annual Planning: Make progress, be consistent, stay positive, and happy coding. 
 
 <div align="left">  
   
