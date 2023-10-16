@@ -10,7 +10,7 @@
 ## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,java,bootstrap,mongo,mysql,webpack,linux,git,visualstudio,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,expressjs,java,bootstrap,mongo,mysql,webpack,linux,git" />
 </a>
 
 </div>
