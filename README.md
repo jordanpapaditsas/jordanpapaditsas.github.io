@@ -1,7 +1,7 @@
 ## Hello, 👋  I'm Jordan 
   
-- 📚 Currently studying Software Engineering in Coding Factory, which is run by the Athens University of Economics and Business.
-- 🌱 Strong foundation in Web Development, focused on learning Full Stack Development in depth and excited about taking on new challenges. 
+- 📚 Graduated from Coding Factory, a Full Stack Engineering bootcamp, which is run by Athens University of Business and Economics.
+- 🌱 Currently learning Angular, TypeScript. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, stay positive, and happy coding. 
 
@@ -10,7 +10,7 @@
 ## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,expressjs,java,bootstrap,mongo,mysql,webpack,linux,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,nodejs,expressjs,java,bootstrap,mongo,webpack,linux,git" />
 </a>
 
 </div>
