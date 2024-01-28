@@ -1,7 +1,7 @@
 ## Hello, 👋  I'm Jordan 
   
 - 📚 Graduated from a Full Stack Engineering coding bootcamp, which is run by Athens University of Economics and Business.
-- 🌱 Currently working with Angular, TypeScript, DevExtreme and Ionic Framework. 
+- 🌱 Currently working with Angular, TypeScript, DevExtreme and C#.
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, stay positive, and happy coding. 
 
@@ -10,7 +10,7 @@
 ## 💻 Languages & Tools 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,nodejs,expressjs,bootstrap,mongo,mysql,docker,postman,webpack,linux,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,c#,nodejs,expressjs,bootstrap,mongo,mysql,docker,postman,webpack,linux,git" />
 </a>
 
 </div>
