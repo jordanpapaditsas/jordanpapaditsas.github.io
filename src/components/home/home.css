@@ -1,0 +1,80 @@
+#home {
+  height: calc(100vh - 10rem);
+  max-width: 80%;
+  margin: 0 auto;
+  /* overflow: hidden; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-content {
+  width: 100vw;
+  padding: 2rem;
+  font-size: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+.hello {
+  font-size: 1.4rem;
+  font-weight: 100;
+}
+
+.intro-name {
+  color: var(--main-theme-color);
+}
+
+.intro-para {
+  margin-top: 1.5rem;
+  font-size: medium;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.hire-me-btn {
+  background: white;
+  margin: 1rem 0;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.github-link i, .linkedIn-link i {
+  color: white;
+}
+
+.github-link:hover, .linkedIn-link:hover {
+  transform: scale(1.3);
+  transition: all .2s ease-in-out;
+}
+
+@media screen and (max-width: 700px) {
+  #home {
+    max-width: 100%;
+    flex-wrap: wrap;
+  }
+  
+  .home-content {
+    font-size: 2.7rem;
+  }
+
+  .github-link i, .linkedIn-link i {
+    font-size: 1.9rem;
+  }
+}
+
+/* Need to set media queries for responsiveness  */
+

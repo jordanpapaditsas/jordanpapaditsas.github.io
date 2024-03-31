@@ -1,0 +1,15 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.devicon-github-original, .devicon-linkedin-plain {
+  font-size: 2rem;
+}
+
+.github-link:hover, .linkedIn-link:hover {
+  transform: scale(1.3);
+  transition: all .2s ease-in-out;
+}

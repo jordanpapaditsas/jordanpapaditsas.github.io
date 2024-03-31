@@ -1,0 +1,69 @@
+#contact {
+  /* min-height: calc(100vh - 10rem); */
+  /* width: 100vw; */
+  /* max-width: 60rem; */
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 1rem;
+  background-color: black;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 90vh;
+}
+
+.contact-title-text {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.contact-form {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+  max-width: 60rem;
+}
+
+.name, .email, .message-box {
+  font-size: medium;
+  width: 100%;
+  max-width: 40rem;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  background: rgb(40,40,40);
+}
+
+.submit-btn {
+  background: white;
+  border: none;
+  padding: 0.5rem 3rem;
+  margin: 2rem;
+  border-radius: 1rem;
+}
+
+.submit-btn:hover {
+  background-color: #466cb3;
+  transition: all .2s ;
+  cursor: pointer;
+  color: white;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+ 
+
+/* Need to pass media queries for responsiveness */

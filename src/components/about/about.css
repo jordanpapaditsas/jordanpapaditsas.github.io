@@ -1,0 +1,86 @@
+#about {
+  background-color: white;
+  color: black;
+  height: 100vh;
+}
+
+.about-content-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 2fr 1fr;
+  grid-template-rows: 1fr 2fr .2fr;
+  grid-template-areas:
+    ". about . skills ."
+    ". about . skills .";
+  gap: 1rem;
+}
+
+.aboutMe-text {
+  grid-area: about;
+  grid-row: 2;
+  margin-top: 1rem;
+}
+
+.aboutMe-title {
+  margin-bottom: .5rem;
+}
+
+.aboutMe-para {
+  letter-spacing: 1px;
+}
+
+.skills-icons-container {
+  grid-area: skills;
+  grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.skills-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.about-skill {
+  width: 5rem;
+  height: 5rem;
+}
+
+@media screen and (max-width: 700px) {
+  #about {
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .about-content-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .about-skill {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .about-skill {
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+
+/* Need to pass media queries for responsiveness */
