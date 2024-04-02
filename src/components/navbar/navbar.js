@@ -23,7 +23,7 @@ const Navbar = () => {
       <img src={showMenu ? closeMenu : hamMenu} alt="JP" className="hamburger-menu" onClick={() => setShowMenu(!showMenu)} />
       <div className="nav-hamburger-menu" style={{ display: showMenu ? 'flex': 'none' }}>
         <Link activeClass="active" to="home" spy={true} smooth={true} offset={-130} duration={500} className="ham-list-item" onClick={()=>setShowMenu(false)}>Home</Link>
-        <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-110} duration={500} className="ham-list-item" onClick={()=>setShowMenu(false)}>Projects</Link>
+        <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-150} duration={500} className="ham-list-item" onClick={()=>setShowMenu(false)}>Projects</Link>
         <Link activeClass="active" to="about" spy={true} smooth={true} offset={-100} duration={500} className="ham-list-item" onClick={()=>setShowMenu(false)}>About</Link>
         <Link activeClass="active" to="contact" spy={true} smooth={true} offset={100} duration={500} className="ham-list-item" onClick={()=>setShowMenu(false)}>Contact</Link>
       </div>
