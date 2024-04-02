@@ -102,12 +102,12 @@ const About = () => {
                 alt="MySQL"
               />
             </div>
-            <div className="about-skill">
+            {/* <div className="about-skill">
               <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
                 alt="Webpack"
               />
-            </div>
+            </div> */}
             <div className="about-skill">
               <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
