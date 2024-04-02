@@ -73,12 +73,21 @@
     width: 3.8rem;
     height: 3.8rem;
   }
+  #about {
+    min-height: 100vh;
+    margin-bottom: 1rem;
+  }
 }
 
 @media screen and (max-width: 380px) {
   .about-skill {
     width: 2.5rem;
     height: 2.5rem;
+  }
+
+  #about {
+    min-height: 100vh;
+    margin-bottom: 1rem;
   }
 }
 
