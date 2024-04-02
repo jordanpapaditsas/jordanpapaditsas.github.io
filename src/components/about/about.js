@@ -104,12 +104,6 @@ const About = () => {
             </div>
             <div className="about-skill">
               <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-                alt="Docker"
-              />
-            </div>
-            <div className="about-skill">
-              <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
                 alt="Webpack"
               />
