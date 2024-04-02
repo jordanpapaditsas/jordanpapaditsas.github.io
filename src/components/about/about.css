@@ -77,6 +77,16 @@
     min-height: 100vh;
     margin-bottom: 1rem;
   }
+  .about-content-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 2fr 1fr;
+    grid-template-rows: 1fr 2fr .2fr;
+    grid-template-areas:
+      ". about . skills ."
+      ". about . skills .";
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
 }
 
 @media screen and (max-width: 380px) {
@@ -87,6 +97,17 @@
 
   #about {
     min-height: 100vh;
+    margin-bottom: 1rem;
+  }
+
+  .about-content-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 2fr 1fr;
+    grid-template-rows: 1fr 2fr .2fr;
+    grid-template-areas:
+      ". about . skills ."
+      ". about . skills .";
+    gap: 1rem;
     margin-bottom: 1rem;
   }
 }
