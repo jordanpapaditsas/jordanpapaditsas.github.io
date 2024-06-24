@@ -19,7 +19,7 @@ const Contact = () => {
         (result) => {
           console.log(result.text);
           e.target.reset();
-          alert('Email sent successfully!');
+          alert("Email sent successfully!");
         },
         (error) => {
           console.log(error.text);
@@ -34,11 +34,23 @@ const Contact = () => {
           <h2>Contact Me</h2>
         </div>
         <span className="contact-description">
-          Please fill out the form.{" "}
+          Please fill out the form to get in touch with me.{" "}
         </span>
         <form className="contact-form" ref={form} onSubmit={sendEmail}>
-          <input type="text" className="name" required placeholder="Your Name" name="your_name" />
-          <input type="email" className="email" required placeholder="Your Email" name="your_email" />
+          <input
+            type="text"
+            className="name"
+            required
+            placeholder="Your Name"
+            name="your_name"
+          />
+          <input
+            type="email"
+            className="email"
+            required
+            placeholder="Your Email"
+            name="your_email"
+          />
           <textarea
             required
             className="message-box"

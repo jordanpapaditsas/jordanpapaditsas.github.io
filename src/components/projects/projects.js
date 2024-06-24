@@ -23,7 +23,7 @@ const Projects = () => {
           <h3 className="project-title">Task Harbor</h3>
           <div className="project-live-repo">
             <p>
-              A Full Stack productivity application platform built with Angular,
+              A Full Stack productivity platform application built with Angular,
               C# and SQL database.
             </p>
             <div className="url">

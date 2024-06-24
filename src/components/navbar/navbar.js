@@ -9,17 +9,23 @@ import closeMenu from "../../assets/close-menu.png";
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
 
+  const scrollToSection = (sectionId, offset = 0) => {
+    const element = document.getElementById(sectionId);
+    if (element) {
+      const yOffset = offset;
+      const y =
+        element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+      window.scrollTo({ top: y, behavior: "smooth" });
+    }
+  };
+
   return (
     <nav className="navbar">
       <img
         src={logo}
         alt="JP"
         className="logo"
-        onClick={() => {
-          document
-            .getElementById("home")
-            .scrollIntoView({ behavior: "smooth" });
-        }}
+        onClick={() => scrollToSection("home", -130)}
       />
       <div className="menu">
         <Link
