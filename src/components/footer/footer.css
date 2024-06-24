@@ -7,9 +7,9 @@
 
 .devicon-github-original, .devicon-linkedin-plain {
   font-size: 2rem;
+  transition: all .3s ease-in-out;
 }
 
-.github-link:hover, .linkedIn-link:hover {
-  transform: scale(1.3);
-  transition: all .2s ease-in-out;
+.github-link:hover .devicon-github-original, .linkedIn-link:hover .devicon-linkedin-plain {
+  transform: scale(1.3); 
 }

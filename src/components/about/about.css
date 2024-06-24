@@ -1,17 +1,21 @@
 #about {
   background-color: white;
   color: black;
-  height: 100vh;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .about-content-grid {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr 2fr 1fr;
-  grid-template-rows: 1fr 2fr .2fr;
+  /* grid-template-rows: 1fr 2fr .2fr; */
   grid-template-areas:
     ". about . skills ."
     ". about . skills .";
   gap: 1rem;
+  align-items: center;
 }
 
 .aboutMe-text {
@@ -24,9 +28,17 @@
   margin-bottom: .5rem;
 }
 
-.aboutMe-para {
+.aboutMe-para-first,
+.aboutMe-para-second,
+.aboutMe-para-third {
   letter-spacing: 1px;
 }
+
+.aboutMe-para-first,
+.aboutMe-para-second {
+  margin-bottom: 1rem;
+}
+
 
 .skills-icons-container {
   grid-area: skills;

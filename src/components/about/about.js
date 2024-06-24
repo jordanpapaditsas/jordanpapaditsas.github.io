@@ -9,14 +9,22 @@ const About = () => {
           <div className="aboutMe-title">
             <h2>About Me</h2>
           </div>
-          <p className="aboutMe-para">
-            Hello there, I'm Jordan and I love to build things. My passion for computers and technology has led me into this Software
-            Engineering journey that I've chosen to follow. I've started studying in Athens University of Economics and Business, undergoing an intensive 7-month full-stack coding bootcamp. I've always had the curiosity how everything is
-            processed behind, creating what we see as the final product. 
+          <p className="aboutMe-para-first">
+            Hello there, I'm Jordan and I love to build things. My passion for
+            computers and technology has led me into this Software Engineering
+            journey that I've chosen to follow.
           </p>
-          <br/>
-          <p className="aboutMe-para">Since I've graduated from the coding bootcamp,
-            I've been hooked up on Software Engineering field. I started out as a Frontend Developer and now I'm doing Full Stack Development.</p>
+          <p className="aboutMe-para-second">
+            I've started studying in Athens University of Economics and
+            Business, undergoing an intensive 7-month full-stack coding
+            bootcamp. I've always had the curiosity how everything is processed
+            behind, creating what we see as the final product.
+          </p>
+          <p className="aboutMe-para-third">
+            Since I've graduated from the coding bootcamp, I've been hooked up
+            on Software Engineering field. I started out as a Frontend Developer
+            and now I'm doing Full Stack Development.
+          </p>
         </div>
         <div className="skills-icons-container">
           <div className="skills-title">
@@ -38,7 +46,6 @@ const About = () => {
             <div className="about-skill">
               <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-                
                 alt="CSharp"
               />
             </div>
