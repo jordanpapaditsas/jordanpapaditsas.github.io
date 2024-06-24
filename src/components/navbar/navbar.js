@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <img src={logo} alt="JP" className="logo" />
+      <img src={logo} alt="JP" className="logo" onClick={() => {document.getElementById("home").scrollIntoView({ behavior: "smooth" });}}/>
       <div className="menu">
         <Link activeClass="active"to="home"spy={true}smooth={true}offset={-130}duration={500}className="nav-list-item">Home</Link>
         <Link activeClass="active"to="projects"spy={true}smooth={true}offset={-130}duration={500}className="nav-list-item">Projects</Link>
