@@ -18,16 +18,15 @@ const Projects = () => {
       </div>
 
       <div className="project-images-container">
-        <div className="project-card">
-          <img src={taskHarbor} alt="Task Harbor" className="project-img" />
-          <h3 className="project-title">Task Harbor</h3>
+        {/* <div className="project-card">
+          <img src={taskHarbor} alt="Productivity Harbor" className="project-img" />
+          <h3 className="project-title">Productivity Harbor</h3>
           <div className="project-live-repo">
             <p>
-              A Full Stack productivity platform application built with Angular,
-              C# and SQL database.
+              A Full Stack productivity platform app built with Angular, C# and
+              SQL database.
             </p>
             <div className="url">
-              {/* <a href="#">LIVE</a> */}
               <a
                 className="repo"
                 href="https://github.com/jordanpapaditsas/task-harbor"
@@ -36,7 +35,7 @@ const Projects = () => {
               </a>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="project-card">
           <img src={jrpgBlog} alt="JRPG Blog" className="project-img" />
           <h3 className="project-title">JRPG Blog</h3>
