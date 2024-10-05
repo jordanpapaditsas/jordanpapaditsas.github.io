@@ -1,6 +1,5 @@
 import React from "react";
 import "./projects.css";
-import taskHarbor from "../../assets/task-harbor-test.jfif";
 import jrpgBlog from "../../assets/jrpg-blog.png";
 import okonomiFlavors from "../../assets/okonomi-flavors.png";
 import datapagesVault from "../../assets/datapages-vault.png";
