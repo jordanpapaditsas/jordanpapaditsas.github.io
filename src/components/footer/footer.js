@@ -12,15 +12,13 @@ const Footer = () => {
       <div className="footer-container">
         <div className="links">
           <a className="github-link" href={gitHubUrl}>
-            <i class="devicon-github-original"></i>
+            <i className="devicon-github-original"></i>
           </a>
           <a className="linkedIn-link" href={linkedInUrl}>
-            <i class="devicon-linkedin-plain colored"></i>
+            <i className="devicon-linkedin-plain colored"></i>
           </a>
         </div>
-        <p className="footer-text">
-          Jordan Papaditsas {currentYear}
-        </p>
+        <p className="footer-text">Jordan Papaditsas {currentYear}</p>
       </div>
     </section>
   );
