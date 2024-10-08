@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jordanpapaditsas.github.io/jordanpapaditsas.github.io",
+  "homepage": "https://jordanpapaditsas.github.io/", 
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
