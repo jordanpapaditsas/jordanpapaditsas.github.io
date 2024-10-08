@@ -1,9 +1,0 @@
-netlify deploy
-netlify deploy --site my-first-site
-netlify deploy --prod
-netlify deploy --prod --open
-netlify deploy --prod-if-unlocked
-netlify deploy --message "A message with an $ENV_VAR"
-netlify deploy --auth $NETLIFY_AUTH_TOKEN
-netlify deploy --trigger
-netlify deploy --build --context deploy-preview
