@@ -20,7 +20,7 @@
 
 .contact-title-text {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-bottom: 2rem;
 }
 
@@ -67,16 +67,22 @@
   gap: 1rem;
 }
  
-/* @media screen and (max-width: 550px) {
-  #contact {
-    min-height: 80vh;
+@media screen and (max-width: 440px) {
+  .submit-btn {
+    font-size: .8rem;
+  }
+  .contact-title-text {
+    font-size: 1rem;
+  }
+
+  .name, .email, .message-box {
+    font-size: .8rem;  
+  }
+
+  .contact-description {
+    font-size: .9rem;
   }
 }
 
-@media screen and (max-width: 380px) {
-  #contact {
-    min-height: 70vh;
-  }
-} */
 
 /* Need to pass media queries for responsiveness */

@@ -1,13 +1,15 @@
 import React, { useState } from "react";
 import "./navbar.css";
 import logo from "../../assets/logo.png";
-import contactImg from "../../assets/contact.png";
 import { Link } from "react-scroll";
 import hamMenu from "../../assets/menu-hamburger.png";
 import closeMenu from "../../assets/close-menu.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
+  const contact_me_text = "Contact Me";
 
   const scrollToSection = (sectionId, offset = 0) => {
     const element = document.getElementById(sectionId);
@@ -79,8 +81,9 @@ const Navbar = () => {
               .scrollIntoView({ behavior: "smooth" });
           }}
         >
-          <img src={contactImg} alt="Contact" className="nav-icon-contact" />
-          Contact Me
+          {/* <img src={contactImg} alt="Contact" className="nav-icon-contact" /> */}
+          <FontAwesomeIcon icon={faEnvelope} className="nav-icon-contact" />{" "}
+          {contact_me_text}
         </button>
       </Link>
 
