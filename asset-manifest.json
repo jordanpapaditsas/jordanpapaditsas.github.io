@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fd65ff67.css",
-    "main.js": "/static/js/main.c439466a.js",
+    "main.js": "/static/js/main.202507e4.js",
     "static/media/logo.png": "/static/media/logo.89a6827f5ab5c83a78c5.png",
     "static/media/jrpg-blog.png": "/static/media/jrpg-blog.d8fc077ad3f514abbdc7.png",
     "static/media/okonomi-flavors.png": "/static/media/okonomi-flavors.22727fa196b0e6260e9d.png",
     "static/media/datapages-vault.png": "/static/media/datapages-vault.a799e3cec4f77ac11218.png",
     "index.html": "/index.html",
     "main.fd65ff67.css.map": "/static/css/main.fd65ff67.css.map",
-    "main.c439466a.js.map": "/static/js/main.c439466a.js.map"
+    "main.202507e4.js.map": "/static/js/main.202507e4.js.map"
   },
   "entrypoints": [
     "static/css/main.fd65ff67.css",
-    "static/js/main.c439466a.js"
+    "static/js/main.202507e4.js"
   ]
 }
