@@ -28,3 +28,4 @@ yarn-error.log*
 .netlify
 .netlify_commands.txt
 netlify_commands.txt
+build_for_production_commands.md
