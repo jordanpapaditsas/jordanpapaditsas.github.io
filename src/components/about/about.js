@@ -57,12 +57,6 @@ const About = () => {
             </div>
             <div className="about-skill">
               <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                alt="React"
-              />
-            </div>
-            <div className="about-skill">
-              <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                 alt="HTML"
               />
@@ -81,26 +75,8 @@ const About = () => {
             </div>
             <div className="about-skill">
               <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                alt="Node.js"
-              />
-            </div>
-            <div className="about-skill">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-                alt="Express.js"
-              />
-            </div>
-            <div className="about-skill">
-              <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
                 alt="Bootstrap"
-              />
-            </div>
-            <div className="about-skill">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-                alt="MongoDB"
               />
             </div>
             <div className="about-skill">
@@ -109,12 +85,6 @@ const About = () => {
                 alt="MySQL"
               />
             </div>
-            {/* <div className="about-skill">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-                alt="Webpack"
-              />
-            </div> */}
             <div className="about-skill">
               <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
