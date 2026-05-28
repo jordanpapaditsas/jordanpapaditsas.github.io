@@ -15,7 +15,7 @@ const Home = () => {
           I'm<span className="intro-name"> Jordan Papaditsas</span>
         </span>
         <p className="intro-para">
-          A Full Stack Developer who loves coding and problem solving, <br />
+          A Full Stack Engineer who loves coding and problem solving, <br />
           and passionate about building scalable web apps and accessible
           websites.
         </p>

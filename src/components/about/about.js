@@ -22,8 +22,8 @@ const About = () => {
           </p>
           <p className="aboutMe-para-third">
             Since I've graduated from the coding bootcamp, I've been hooked up
-            on Software Engineering field. I started out as a Frontend Developer
-            and now I'm doing Full Stack Development.
+            on Software Engineering field. I started out as a Frontend Engineer
+            and now I'm doing Full Stack Engineering.
           </p>
         </div>
         <div className="skills-icons-container">
