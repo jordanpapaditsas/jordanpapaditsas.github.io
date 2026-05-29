@@ -29,7 +29,7 @@ const Projects = () => {
             <div className="url">
               <a
                 className="repo"
-                href="https://github.com/jordanpapaditsas/task-harbor"
+                href="https://github.com/jordanpapaditsas/productivity-harbor"
               >
                 REPO
               </a>
