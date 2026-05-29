@@ -1,6 +1,7 @@
 import React from "react";
 import "./projects.css";
 import jrpgBlog from "../../assets/jrpg-blog.png";
+import productivityHarbor from "../../assets/productivity_harbor.png";
 import okonomiFlavors from "../../assets/okonomi-flavors.png";
 import datapagesVault from "../../assets/datapages-vault.png";
 
@@ -17,12 +18,12 @@ const Projects = () => {
       </div>
 
       <div className="project-images-container">
-        {/* <div className="project-card">
-          <img src={taskHarbor} alt="Productivity Harbor" className="project-img" />
+        <div className="project-card">
+          <img src={productivityHarbor} alt="Productivity Harbor" className="project-img" />
           <h3 className="project-title">Productivity Harbor</h3>
           <div className="project-live-repo">
             <p>
-              A Full Stack productivity platform app built with Angular, C# and
+              A Full Stack CRM platform app built with Angular, C# and
               SQL database.
             </p>
             <div className="url">
@@ -34,7 +35,7 @@ const Projects = () => {
               </a>
             </div>
           </div>
-        </div> */}
+        </div>
         <div className="project-card">
           <img src={jrpgBlog} alt="JRPG Blog" className="project-img" />
           <h3 className="project-title">JRPG Blog</h3>
